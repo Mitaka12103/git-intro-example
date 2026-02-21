@@ -1,7 +1,8 @@
 Question A
-
+4000000
 Question B
-
+355782
 Question C
-
+37
 Question D
+44
